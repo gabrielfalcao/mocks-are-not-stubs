@@ -1,4 +1,4 @@
-ManS - Mocks Are Not Stubs
+mans - mocks are not stubs
 ==========================
 
 
