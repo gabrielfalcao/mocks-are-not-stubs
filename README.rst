@@ -2,6 +2,15 @@ MANS - Mocks Are Not Stubs
 ==========================
 
 
+Installing
+----------
+
+
+.. code:: bash
+
+   pip install mans
+
+
 A python library that makes explicit distiction about different types
 of test doubles.
 
