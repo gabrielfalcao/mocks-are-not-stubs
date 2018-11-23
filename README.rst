@@ -1,4 +1,4 @@
-MANS - Mocks Are Not Stubs
+ManS - Mocks Are Not Stubs
 ==========================
 
 
